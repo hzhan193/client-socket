@@ -4,10 +4,6 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.net.Socket;
 
-/**
- * Hello world!
- *
- */
 public class Client
 {
     public static void main( String[] args ) {
